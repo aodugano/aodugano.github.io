@@ -7,3 +7,5 @@
 
 [Урок 13](aodugano.github.io/Lesson_13/src "Адаптивная верстка") - Верстка Pixel Perfect
 
+
+[Слайдер на React](SliderOnReact/src "Slider")
