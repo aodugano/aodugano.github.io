@@ -3,6 +3,9 @@
 	box-sizing: border-box;
 }
 body {
+	display: flex;
+	justify-content: center;
+	padding-top: 5%;
 	font-family: Arial, sans-serif;
 }
 .form-header {
