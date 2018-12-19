@@ -1,0 +1,57 @@
+/** {
+	border: 1px solid green;
+	padding: 10px;
+}*/
+.section {
+	padding: 50px auto;
+	margin-top: 70px;
+	margin-bottom: 150px;
+}
+
+.header {
+	margin: 50px auto;
+	font-size: 24px;
+}
+.header span {
+	display: block;
+}
+.header strong {
+	text-transform: uppercase;
+}
+form {
+	border: 5px solid #3c3cdd;
+	padding: 20px;
+}
+.form-header {
+	display: block;
+	font-size: 20px;
+	font-weight: 900;
+	margin: 30px auto;
+}
+.features-header {
+	font-size: 24px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.features {
+	margin-top: 90px;
+}
+.features-box {
+	margin-top: 30px;
+}
+.features .btn {
+	margin-top: 90px;
+	display: inline-block;
+	text-align: center;
+}
+.reviews-header {
+	font-size: 24px;
+	font-weight: 900;
+}
+.reviews {
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+.reviews img {
+	margin: 10px auto;
+}
