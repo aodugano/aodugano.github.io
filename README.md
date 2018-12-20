@@ -7,3 +7,5 @@
 
 [Урок 13](aodugano.github.io/Lesson_13/src "Адаптивная верстка") - Верстка Pixel Perfect
 
+[Практика. Часть 1](aodugano.github.io/Practice/src/) - Верстка сайта
+
