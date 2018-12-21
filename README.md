@@ -9,3 +9,5 @@
 
 [Практика. Часть 1](aodugano.github.io/Practice/src/) - Верстка сайта
 
+[Урок 14](aodugano.github.io/Lesson_14/ "Модуль 5") - Установка шрифтов в проект
+
