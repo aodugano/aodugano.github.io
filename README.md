@@ -11,3 +11,5 @@
 
 [Урок 14](aodugano.github.io/Lesson_14/ "Модуль 5") - Установка шрифтов в проект
 
+
+[Практика. Часть 2](aodugano.github.io/Practice/src) - Верстка первой страницы.
