@@ -19,3 +19,5 @@
 
 
 [Практика. Часть 3](aodugano.github.io/Module 5. Practice. Part 3/src/) - Эффекты при наведении для кнопок и адаптивная верстка страницы.
+
+[Слайдер на React](aodugano.SliderOnReact.github.io.git "Псевдоклассы") - Slider
