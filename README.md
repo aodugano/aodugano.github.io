@@ -7,7 +7,9 @@
 
 [Урок 13](aodugano.github.io/Lesson_13/src "Адаптивная верстка") - Верстка Pixel Perfect
 
+
 [Практика. Часть 1](aodugano.github.io/Practice/src/) - Верстка сайта
+
 
 [Урок 14](aodugano.github.io/Lesson_14/ "Модуль 5") - Установка шрифтов в проект
 
@@ -20,4 +22,8 @@
 
 [Практика. Часть 3](aodugano.github.io/Module 5. Practice. Part 3/src/) - Эффекты при наведении для кнопок и адаптивная верстка страницы.
 
+
 [Слайдер на React](https://github.com/aodugano/SliderOnReact.github.io.git "Слайдер") - Slider
+
+
+[Урок 16](aodugano.github.io/Lesson_16/ "Слайдер на сайте") - Слайдер на сайте
