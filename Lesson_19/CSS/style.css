@@ -1,0 +1,133 @@
+body {
+	box-sizing: border-box;
+	background: url(../img/back.png);
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	background-color: #fafcfe;
+}
+.container-fluid {
+	margin-top: 30px;
+	width: 50%;
+}
+.accordeon-header {
+	text-align: center;
+	color: #0bbaf0;
+	text-transform: uppercase;
+	animation: slideInUp 1s ease-in-out;
+}
+hr {
+	width: 130px;
+}
+.accordeon-subtitle {
+	font-size: 24px;
+}
+.btn-link:hover, 
+.btn-link, 
+.btn-link:focus {
+	text-decoration: none;
+	color: white;
+		-webkit-animation: flipInX 1s ease-in-out;
+}
+.card {
+	margin-bottom: 3px;
+	-webkit-animation: slideInUp 1s ease-in;
+}
+.card-header {
+	padding: 5px;
+	background-color: #0bbaf0;
+
+}
+
+.card-body {
+	width: 100%;
+	border: 2px solid #dcdcdc;
+	border-top: none;
+	border-radius: 5px;
+	padding: 5px;
+	text-align: center;
+}
+
+.consultation {
+	background-color:  #0bbaf0;
+	color: white;
+	text-transform: uppercase;
+	position: fixed;
+	top: 30px;
+	right: 80px;
+	font-size: 20px;
+}
+.consultation:hover {
+	-webkit-animation: tada 1s ease-in-out;
+}
+
+.modal-form {
+
+	background-color: #000;
+	border: 25px solid #03a2d6;
+	border-radius: 10px;
+	padding: 72px 40px 30px;
+}
+
+.form-group input{
+	background: url(../img/bg-input.png);
+	color: white;
+	text-transform: uppercase;
+	border: none;
+	outline: none;
+}
+.btn-position {
+	right: 0;
+}
+.btn {
+	border-radius: none;
+}
+.form-btn {
+	background: radial-gradient(at top, #c92103, #7f0501);
+	border: none;
+	color: white;
+	font-weight: bold;
+	width: 130px;
+	height: 40px;
+	position: absolute;
+    right: -63px;
+    bottom: -35px;
+}
+.form-btn:hover {
+	-webkit-animation: tada 1s ease-in-out;
+}
+.forgot-password-link {
+	color: red;
+}
+.forgot-password-link:hover,
+.forgot-password-link:focus,
+input {
+	text-decoration: none !important;
+	outline: none;
+
+
+}
+.modal-content {
+	background: transparent;
+	border: none;
+}
+.nav-buttons {
+	position: absolute;
+    top: -40px;
+    left: 24px;
+    text-decoration: none;
+
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #03a5da;
+    border: 0;
+}
+.nav-tabs .nav-link {
+	margin-left: 10px;
+    background-color: #FFF;
+    border: 0;
+    }
+.nav {
+    	border-bottom: none;
+}
+
