@@ -1,0 +1,48 @@
+body {
+	box-sizing: border-box;
+}
+
+.contacts {
+	margin-right: 0;
+	text-align: center;
+	padding: 30px;
+	margin-bottom: 20px;
+	margin-right: 0;
+	height: 430px;
+	width: 100%;
+	background-color: #c60b0b;
+	color: white;
+}
+.contacts a {
+	text-decoration: none;
+	color: white;
+	/*border-bottom: 1px solid white;*/
+}
+.map {
+	margin-left: 0;
+}
+.footer {
+	-ms-align-items: center;
+	align-items: center;
+}
+.sertificate {
+	text-align: center;
+	color: #666;
+}
+.tel {
+	text-align: right;
+}
+
+@media (max-width:600px) {
+	.contacts {
+		margin-bottom: 0;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-wrap: nowrap;
+		font-size: 10px;
+		height: 100px;
+	}
+}
